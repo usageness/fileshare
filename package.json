@@ -30,9 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "overrides": {
-    "tmp": ">=0.2.3",
-    "mime": ">=1.4.1"
   }
 }
